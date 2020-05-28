@@ -1,2 +1,2 @@
-# .github
-Testing out new profile info
+# About Me
+Just testing out this new profile README experiment
